@@ -1,0 +1,12 @@
+# vscode
+.vscode 
+
+# markdown
+temp.md
+
+# temp file
+temp.*
+
+# C
+*.out
+*.exe
